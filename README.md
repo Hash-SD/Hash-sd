@@ -1,6 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning Data Science<br>💬 Ask me about something? dm please
-
 <!-- GitHub Streak Stats -->
 <picture>
   <source
